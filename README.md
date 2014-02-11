@@ -34,4 +34,4 @@ We’re a privately funded and profitable startup founded in 2007. We have offic
 * Quarterly events like parasailing, hot air balloon rides, boat and waverunner rentals and ziplining.
 
 
-Please CLICK APPLY to submit your resume and portfolio.
+Please send your resume to: jobs[a-t]jobs2careers.com
