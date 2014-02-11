@@ -13,7 +13,7 @@ We’re a privately funded and profitable startup founded in 2007. We have offic
 * Bachelor’s degree required
 * Strong knowledge of HTML, CSS and JavaScript (jQuery).
 * Strong knowledge of PHP and MySQL.
-* Experience with python is also a plus, though not required.
+* Experience with python is a plus, though not required.
 
 **Benefits:**
 
@@ -34,4 +34,4 @@ We’re a privately funded and profitable startup founded in 2007. We have offic
 * Quarterly events like parasailing, hot air balloon rides, boat and waverunner rentals and ziplining.
 
 
-Please send your resume to: jobs[a-t]jobs2careers.com
+**Please send your resume to: jobs[a-t]jobs2careers.com**
