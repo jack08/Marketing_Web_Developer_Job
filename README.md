@@ -24,14 +24,4 @@ Jobs2Careers is a fun and unique office with a work hard, play hard mentality. T
 * Paid Time Off (PTO)
 * Fun Company Outings
 
-
-**Here's what sets our environment apart:**
-
-* A fun and unique office with a work hard, play hard mentality.
-* A fun, creative, and focused team that learns through challenges and collaboration.
-* Fast yet strategic company growth.
-* Free lunches daily, and the kitchen fully stocked with drinks and snacks.
-* Quarterly events like parasailing, hot air balloon rides, boat and waverunner rentals and ziplining.
-
-
 **Please send your resume to: jobs[a-t]jobs2careers.com**
