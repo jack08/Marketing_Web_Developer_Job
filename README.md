@@ -2,7 +2,7 @@ Jobs2Careers is a job search engine that help millions of people find their care
 
 Jobs2Careers is a fun and unique office with a work hard, play hard mentality. The office environment offers casual dress code and lots of perks for our employees. We provide company lunches daily, keep the kitchen fully stocked with drinks and snacks, and sponsor quarterly events like parasailing, hot air balloon rides, boat and waverunner rentals and ziplining.
 
-**Responsibilities:**
+**Jobs2Careers is in search of a web developer to join our marketing team. You will help us:**
 
 * Analyze and build the best algorithms for better marketing.
 * Help job seekers discover the most useful pieces of career contents.
